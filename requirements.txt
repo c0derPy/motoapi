@@ -1,0 +1,8 @@
+Flask==1.0.2
+Flask-Migrate==2.1.1
+Flask-SQLAlchemy==2.3.2
+requests==2.18.4
+SQLAlchemy==1.1.14
+urllib3==1.22
+certifi==2017.7.27.1
+Flask-Login==0.4.0
